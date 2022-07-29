@@ -1,0 +1,1 @@
+Solutions for some challenging [Meta Careers Coding Puzzles](https://www.metacareers.com/profile/coding_puzzles) using JavaScript
